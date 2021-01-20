@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="67px" viewBox="0 0 68 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 4</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#A5F5FF" offset="0%"></stop>
+            <stop stop-color="#5BCDD7" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-33.3%" y="-33.3%" width="166.7%" height="166.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.271439346   0 0 0 0 0.734665485   0 0 0 0 0.773267663  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智享生活" transform="translate(-197.000000, -198.000000)">
+            <g id="编组" transform="translate(9.500000, 183.000000)">
+                <g id="编组-9" transform="translate(187.000000, 15.000000)">
+                    <g id="编组-4" transform="translate(1.000000, 0.000000)">
+                        <rect id="矩形" fill-opacity="0.15" fill="#4FF1FF" transform="translate(33.500000, 33.500000) rotate(-345.000000) translate(-33.500000, -33.500000) " x="6.5" y="6.5" width="54" height="54" rx="16"></rect>
+                        <rect id="矩形" fill="url(#linearGradient-1)" x="8.5" y="8.5" width="50" height="50" rx="16"></rect>
+                        <g id="编组" filter="url(#filter-2)" transform="translate(21.500000, 21.500000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M0.6,14.8386667 C1.07552856e-16,15.336 -0.2,16.0333333 0.3,16.532 C0.8,17.0293333 1.4,17.5266667 6,21.5106667 L6,22.5066667 C6,23.204 6.5,23.9 7.5,23.9 C8.5,23.9 9,22.904 9,22.4066667 L9,21.212 C9,20.8133333 8.9,20.4146667 8.6,20.116 C6,18.0253333 3.2,15.5346667 2.5,14.9373333 C1.8,14.34 1.2,14.34 0.6,14.8386667 Z M23.4,14.8386667 C24,15.336 24.2,16.0333333 23.7,16.532 C23.2,17.0293333 22.6,17.5266667 18,21.5106667 L18,22.5066667 C18,23.3026667 17.5,24 16.5,24 C15.5,24 15,22.904 15,22.4066667 L15,21.212 C15,20.8133333 15.1,20.4146667 15.4,20.116 C18,17.9253333 20.7,15.5346667 21.5,14.8386667 C22.3,14.1413333 22.8,14.34 23.4,14.8386667 L23.4,14.8386667 Z" id="形状"></path>
+                            <path d="M16.5,0 C20.5,0 24,3.18666666 24,7.46933334 C24,12.1493333 17.3,17.7266667 13.5,20.416 C13,20.7133333 12.5,20.9133333 12,20.9133333 C11.5,20.9133333 10.9,20.7133333 10.5,20.4146667 C6.7,17.7266667 0,12.1493333 0,7.468 C0,3.18933334 3.5,0 7.5,0 C9,0 10.8,0.697333344 12,1.49333334 C13.2,0.797333344 15.1,0 16.5,0 Z" id="路径"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

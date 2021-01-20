@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 4</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.6339598%" id="linearGradient-1">
+            <stop stop-color="#9AC7FD" offset="0%"></stop>
+            <stop stop-color="#AE9CFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-40.0%" y="-40.0%" width="180.0%" height="180.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.584447903   0 0 0 0 0.535730675   0 0 0 0 0.869791667  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智享生活-商家中心" transform="translate(-114.000000, -246.000000)">
+            <g id="编组-14" transform="translate(27.000000, 246.000000)">
+                <g id="编组-4" transform="translate(87.000000, 0.000000)">
+                    <rect id="矩形" fill-opacity="0.15" fill="#A7A0FD" transform="translate(30.000000, 30.000000) rotate(-345.000000) translate(-30.000000, -30.000000) " x="5.82089552" y="5.82089552" width="48.358209" height="48.358209" rx="16"></rect>
+                    <rect id="矩形" fill="url(#linearGradient-1)" x="7.6119403" y="7.6119403" width="44.7761194" height="44.7761194" rx="16"></rect>
+                    <g id="编组-6" filter="url(#filter-2)" transform="translate(20.000000, 20.000000)" fill="#FCFDFD" fill-rule="nonzero">
+                        <path d="M6.87460525,2.43360887e-13 C8.25531713,2.43360887e-13 9.37460525,1.11928813 9.37460525,2.5 L9.37460525,6.87526316 C9.37460525,8.25597504 8.25531713,9.37526316 6.87460525,9.37526316 L2.5,9.37526316 C1.11928813,9.37526316 8.8817842e-14,8.25597504 8.8817842e-14,6.87526316 L8.8817842e-14,2.5 C8.8817842e-14,1.11928813 1.11928813,2.43360887e-13 2.5,2.43360887e-13 L6.87460525,2.43360887e-13 Z M17.5046053,2.43360887e-13 C18.8853171,2.43360887e-13 20.0046053,1.11928813 20.0046053,2.5 L20.0046053,6.87526316 C20.0046053,8.25597504 18.8853171,9.37526316 17.5046053,9.37526316 L13.13,9.37526316 C11.7492881,9.37526316 10.63,8.25597504 10.63,6.87526316 L10.63,2.5 C10.63,1.11928813 11.7492881,2.43360887e-13 13.13,2.43360887e-13 L17.5046053,2.43360887e-13 Z" id="形状结合"></path>
+                        <path d="M2.5,10.6247368 L6.87460525,10.6247368 C8.25531713,10.6247368 9.37460525,11.744025 9.37460525,13.1247368 L9.37460525,17.5 C9.37460525,18.8807119 8.25531713,20 6.87460525,20 L2.5,20 C1.11928813,20 0,18.8807119 0,17.5 L0,13.1247368 C0,11.744025 1.11928813,10.6247368 2.5,10.6247368 Z M13.1252632,10.6247368 L17.5,10.6247368 C18.8807119,10.6247368 20,11.744025 20,13.1247368 L20,17.5 C20,18.8807119 18.8807119,20 17.5,20 L13.1246053,20 C11.7438934,20 10.6246053,18.8807119 10.6246053,17.5 L10.6246053,13.1247368 C10.6246053,11.744025 11.7438934,10.6247368 13.1246053,10.6247368 L13.1252632,10.6247368 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

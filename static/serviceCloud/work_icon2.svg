@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="67px" viewBox="0 0 69 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 4</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.6339598%" id="linearGradient-1">
+            <stop stop-color="#9AC7FD" offset="0%"></stop>
+            <stop stop-color="#AE9CFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-28.6%" y="-28.6%" width="157.1%" height="157.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.584447903   0 0 0 0 0.535730675   0 0 0 0 0.869791667  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="云上服务" transform="translate(-153.000000, -132.000000)">
+            <g id="编组-11" transform="translate(12.000000, 117.000000)">
+                <g id="编组" transform="translate(19.500000, 15.000000)">
+                    <g id="编组-4" transform="translate(122.500000, 0.000000)">
+                        <rect id="矩形" fill-opacity="0.15" fill="#ABA5FF" transform="translate(33.500000, 33.500000) rotate(-345.000000) translate(-33.500000, -33.500000) " x="6.5" y="6.5" width="54" height="54" rx="16"></rect>
+                        <rect id="矩形" fill="url(#linearGradient-1)" x="8.5" y="8.5" width="50" height="50" rx="16"></rect>
+                        <g id="编组" filter="url(#filter-2)" transform="translate(19.500000, 19.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <polygon id="路径" fill-opacity="0" points="0 0 28 0 28 28 0 28"></polygon>
+                            <path d="M7.91021875,16.6532188 C9.4364375,15.929375 10.0867813,14.1054375 9.3629375,12.5792188 C9.22136489,12.2808391 9.0323971,12.0073603 8.803375,11.7694063 C8.75747706,11.7263763 8.71240632,11.6824724 8.6681875,11.6377188 C8.6135,11.5869688 8.55640625,11.5381875 8.4975625,11.4915938 L8.52775,11.4918125 C7.57159375,10.465875 7,9.1651875 7,7.75009375 C7,4.43625 10.1340312,1.75 14,1.75 C17.8659688,1.75 21,4.43625 21,7.75009375 C21,9.1945 20.4045625,10.5199063 19.4123125,11.55525 L19.4567188,11.55525 C19.4064062,11.5889375 19.3574063,11.6235 19.3099375,11.6595937 C19.1802957,11.7889514 19.0452046,11.9127301 18.9050313,12.0305937 C18.0313438,12.9970312 17.8874062,14.4670312 18.6416563,15.6016875 C18.9571326,16.0762881 19.4046534,16.4481448 19.929,16.671375 L21.875,17.5 L21.875,19.25 C21.875,19.7332492 21.4832492,20.125 21,20.125 L7,20.125 C6.51675084,20.125 6.125,19.7332492 6.125,19.25 L6.125,17.5 L7.91021875,16.6532188 Z" id="路径"></path>
+                            <path d="M4.375,22.75 C3.40850169,22.75 2.625,23.5335017 2.625,24.5 C2.625,25.4664983 3.40850169,26.25 4.375,26.25 L23.625,26.25 C24.5914983,26.25 25.375,25.4664983 25.375,24.5 C25.375,23.5335017 24.5914983,22.75 23.625,22.75 L4.375,22.75 Z" id="路径"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

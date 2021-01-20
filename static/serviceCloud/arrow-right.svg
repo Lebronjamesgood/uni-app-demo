@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="10px" viewBox="0 0 8 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>形状结合 3</title>
+    <defs>
+        <path d="M10,0 L335,0 C340.522847,-1.01453063e-15 345,4.4771525 345,10 L345,494 C345,499.522847 340.522847,504 335,504 L10,504 C4.4771525,504 6.76353751e-16,499.522847 0,494 L0,10 C-6.76353751e-16,4.4771525 4.4771525,1.01453063e-15 10,0 Z" id="path-1"></path>
+        <filter x="-4.3%" y="-3.0%" width="108.7%" height="106.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.16015625   0 0 0 0 0.16015625   0 0 0 0 0.16015625  0 0 0 0.0535675262 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="云上服务-热门服务" transform="translate(-339.000000, -102.000000)">
+            <g id="编组-7" transform="translate(15.000000, 79.000000)">
+                <g id="矩形备份">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="形状结合-3" transform="translate(324.000000, 23.000000)" fill="#C3CBCF">
+                    <path d="M1.06066017,9.89949494 L1.05915277e-13,8.83883476 L3.889,4.949 L1.06137321e-13,1.06066017 L1.06066017,-8.65973959e-15 L6.01040764,4.94974747 L1.06066017,9.89949494 Z" id="形状结合"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,44 @@
+.left-bar {
+	display: flex;
+}
+/deep/ .uni-navbar__header{
+	margin-top: 44rpx;
+}
+/deep/ .uni-navbar__header-btns-left{
+	padding: 0 16rpx 0 30rpx;
+	width: 164rpx;
+}
+/deep/ .uni-input-placeholder{
+	font-size: 24rpx;
+}
+/deep/ .uni-navbar{
+	position: absolute;
+	top: 0;
+}
+/deep/ .uni-navbar--border{
+	border-width: 0;
+}
+.left-bar text {
+	font-size: 28rpx;
+	height: 44rpx;
+}
+.cloud text {
+	font-size: 22rpx !important;
+}
+
+.left-bar,
+.cloud {
+	height: 34rpx;
+	line-height: 44rpx;
+}
+/deep/ .uni-navbar__header-btns{
+	 padding: 0px 6px 8px 6px;
+}
+.erwe-code{
+	width: 48rpx;
+	height: 48rpx;
+	margin: 0 30rpx 0 16prx;
+}
+/deep/ .u-content{
+	width: 492rpx;
+}

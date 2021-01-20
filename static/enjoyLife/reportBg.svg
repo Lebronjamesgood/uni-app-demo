@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="375px" height="182px" viewBox="0 0 375 182" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bn</title>
+    <defs>
+        <linearGradient x1="100%" y1="59.1022222%" x2="0%" y2="40.8977778%" id="linearGradient-1">
+            <stop stop-color="#E0EAF6" offset="0%"></stop>
+            <stop stop-color="#91A7C7" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="375" height="160"></rect>
+        <linearGradient x1="100%" y1="59.1022222%" x2="0%" y2="40.8977778%" id="linearGradient-4">
+            <stop stop-color="#AEC1F2" offset="0%"></stop>
+            <stop stop-color="#DBE5F8" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0" y="0" width="375" height="160"></rect>
+        <linearGradient x1="80.4997602%" y1="100%" x2="19.5002398%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#AEC1F2" offset="0%"></stop>
+            <stop stop-color="#DBE5F8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="79.645%" y1="100%" x2="20.355%" y2="0%" id="linearGradient-8">
+            <stop stop-color="#AEC1F2" offset="0%"></stop>
+            <stop stop-color="#DBE5F8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="46.5609584%" y2="95.3227246%" id="linearGradient-9">
+            <stop stop-color="#CCDAFF" offset="0%"></stop>
+            <stop stop-color="#8696CE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#C6D4F5" offset="0%"></stop>
+            <stop stop-color="#7C92DD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="商家中心-我的报表" transform="translate(0.000000, -64.000000)">
+            <g id="bn" transform="translate(0.000000, 64.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="蒙版备份" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                <polygon id="矩形备份" fill="url(#linearGradient-7)" opacity="0.600000024" mask="url(#mask-6)" points="0 0 107 0 0 137"></polygon>
+                <polygon id="矩形" fill="url(#linearGradient-8)" mask="url(#mask-6)" points="0 0 77 0 0 100"></polygon>
+                <g id="编组-11" opacity="0.200000003" mask="url(#mask-6)" fill-rule="nonzero">
+                    <g transform="translate(268.000000, 43.000000)" id="路径">
+                        <polygon fill="url(#linearGradient-9)" points="63.3294209 100 33 100 85.4757434 0 116 0"></polygon>
+                        <polygon fill="url(#linearGradient-10)" points="63 100 32.8555328 100 0 0 30.1444672 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

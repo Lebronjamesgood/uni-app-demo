@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="53px" viewBox="0 0 52 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>椭圆形</title>
+    <defs>
+        <linearGradient x1="15.1574534%" y1="0%" x2="86.2133897%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#96F1D2" offset="0%"></stop>
+            <stop stop-color="#4CCCA0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智享生活-公共服务-生活缴费" transform="translate(-30.000000, -391.000000)">
+            <g id="编组-4" transform="translate(15.000000, 128.000000)">
+                <g id="编组-3备份-3" transform="translate(0.000000, 255.000000)">
+                    <g id="编组-9" transform="translate(15.000000, 8.500000)">
+                        <circle id="椭圆形" fill="#E2FBF3" cx="26" cy="26" r="26"></circle>
+                        <g id="tianranqi" transform="translate(12.500000, 11.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+                            <path d="M21.5472036,9.07724999 L19.0574668,11.172 C19.0574668,11.172 19.0574668,2.79334097 10.7594551,0 C10.7594551,0 9.92932063,7.68074999 5.7799815,10.47375 C1.63064236,13.26675 -6.66836918,21.64575 9.92932063,27.93 C9.92932063,27.93 1.63130885,20.2495909 12.4190574,14.66325 C12.4190574,14.66325 11.5892562,17.45625 15.7385954,20.2495909 C19.8879345,23.0429319 15.7385954,27.93 15.7385954,27.93 C15.7385954,27.93 35.6558232,23.7405 21.5478701,9.07588623 L21.5472036,9.07724999 Z" id="路径"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

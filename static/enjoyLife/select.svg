@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形</title>
+    <defs>
+        <path d="M20,0 L20,15 C20,17.209139 18.209139,19 16,19 L0,19 L0,19 L20,0 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="商家中心-我的服务-个人服务管理-发布服务-服务收费" transform="translate(-101.000000, -142.000000)">
+            <g id="编组-7" transform="translate(15.000000, 79.000000)">
+                <g id="编组-4" transform="translate(15.000000, 20.000000)">
+                    <g id="编组备份-4" transform="translate(0.000000, 30.000000)">
+                        <g id="编组-4" transform="translate(72.000000, 13.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="矩形" fill="#206CFE" xlink:href="#path-1"></use>
+                            <path d="M9.5,13.108101 L10.0739532,12.5601638 L12.7146319,14.7853103 C12.7146319,14.7853103 14.6768347,12.9845441 18.2685873,10 L18.5,10.5739551 C18.5,10.5739551 15.5060703,13.4437102 12.700166,16.5 L9.5,13.108101 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

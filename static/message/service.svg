@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="67px" height="67px" viewBox="0 0 67 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 4</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.6339598%" id="linearGradient-1">
+            <stop stop-color="#9AC7FD" offset="0%"></stop>
+            <stop stop-color="#AE9CFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50.0%" y="-50.0%" width="200.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.584447903   0 0 0 0 0.535730675   0 0 0 0 0.869791667  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的-消息中心" transform="translate(-26.000000, -96.000000)">
+            <g id="编组-5" transform="translate(10.000000, 80.000000)">
+                <g id="编组-4" transform="translate(16.000000, 16.000000)">
+                    <rect id="矩形" fill-opacity="0.15" fill="#ABA5FF" transform="translate(33.500000, 33.500000) rotate(-345.000000) translate(-33.500000, -33.500000) " x="6.5" y="6.5" width="54" height="54" rx="16"></rect>
+                    <rect id="矩形" fill="url(#linearGradient-1)" x="8.5" y="8.5" width="50" height="50" rx="16"></rect>
+                    <g id="通知" filter="url(#filter-2)" transform="translate(20.000000, 20.000000)" fill-rule="nonzero">
+                        <rect id="矩形" fill="#000000" opacity="0" x="0" y="0" width="26.4" height="26.4"></rect>
+                        <path d="M4.95,18.975 L4.95,10.725 C4.95,6.73365 7.7847,3.404775 11.55,2.64 L11.55,1.65 C11.55,0.738375 12.288375,0 13.2,0 C14.111625,0 14.85,0.738375 14.85,1.65 L14.85,2.64 C18.6153,3.404775 21.45,6.73365 21.45,10.725 L21.45,18.975 L22.277475,18.975 C23.18745,18.975 23.925,19.7076 23.925,20.625 C23.925,21.536625 23.186625,22.275 22.277475,22.275 L4.122525,22.275 C3.21255,22.275 2.475,21.5424 2.475,20.625 C2.475,19.713375 3.213375,18.975 4.122525,18.975 L4.95,18.975 Z M15.675,23.925 C15.675,25.292025 14.567025,26.4 13.2,26.4 C11.832975,26.4 10.725,25.292025 10.725,23.925 L15.675,23.925 Z" id="形状" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
